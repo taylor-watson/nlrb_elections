@@ -5,7 +5,7 @@ So I set up a repository here where the files are available. Here you will find 
 
 **Raw Files:** The NLRB has one CSV for all elections 1977-1999, one XLS file for all elections 2000-2010, and then individual XLS files annually.
 
-**Do File:** This is a work-in-progress, as the different years of data use different variables and harmoizing them may be project-dependent.
+**Do File:** This is a work-in-progress, as the different years of data use different variables and harmonizing them may be project-dependent.
 
 The current do-file focuses on the following variables across years: state, date, eligible voters, votes for union, votes against union, and outcome (win / loss).
 
